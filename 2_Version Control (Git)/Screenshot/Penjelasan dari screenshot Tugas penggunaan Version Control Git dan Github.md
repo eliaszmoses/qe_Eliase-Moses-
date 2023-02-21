@@ -4,14 +4,14 @@
 - Telah membuat berurutan folder sesuai section tugas
 - Telah membuat sub folder yang berisikan praktikum, Screenshots dan readme.md
 
-![Bukti langkah 3 per folder 1.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%201.png)
-![Bukti langkah 3 per folder 2.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%202.png)
-![Bukti langkah 3 per folder 3.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%203.png)
-![Bukti langkah 3 per folder 4.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%204.png)
-![Bukti langkah 3 per folder 5.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%205.png)
-![Bukti langkah 3 per folder 6.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%206.png)
-![Bukti langkah 3 per folder 7.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%207.png)
-![Bukti langkah 3 per folder 8.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%208.png)
+![Bukti langkah 3 per folder 1.png](Bukti%20langkah%203%20per%20folder%201.png)
+![Bukti langkah 3 per folder 2.png](Bukti%20langkah%203%20per%20folder%202.png)
+![Bukti langkah 3 per folder 3.png](Bukti%20langkah%203%20per%20folder%203.png)
+![Bukti langkah 3 per folder 4.png](Bukti%20langkah%203%20per%20folder%204.png)
+![Bukti langkah 3 per folder 5.png](Bukti%20langkah%203%20per%20folder%205.png)
+![Bukti langkah 3 per folder 6.png](Bukti%20langkah%203%20per%20folder%206.png)
+![Bukti langkah 3 per folder 7.png](Bukti%20langkah%203%20per%20folder%207.png)
+![Bukti langkah 3 per folder 8.png](Bukti%20langkah%203%20per%20folder%208.png)
 
 - Telah melakukan commit
 # Penjelasan Soal Prioritas 2
