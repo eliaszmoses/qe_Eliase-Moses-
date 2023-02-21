@@ -16,7 +16,7 @@ Pengaturan Git Init, Git Clone, Config :
 ### Poin keempat : Saving Changes
 The staging area adalah sebuah berkas sederhana, umumnya berada dalam direktori Git, yang menyimpan informasi mengenai apa yang menjadi commit selanjutnya masuk ke repository.
 
-![Screenshot (202).png](..%2F..%2FScreenshot%20%28202%29.png)
+![The Staging Area (Gambar).png](..%2F..%2FThe%20Staging%20Area%20%28Gambar%29.png)
 
 Dengan command git status > git add > git commit
 

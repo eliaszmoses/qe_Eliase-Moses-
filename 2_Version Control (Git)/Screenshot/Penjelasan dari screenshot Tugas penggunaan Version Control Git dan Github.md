@@ -12,5 +12,6 @@
 ![Bukti langkah 3 per folder 6.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%206.png)
 ![Bukti langkah 3 per folder 7.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%207.png)
 ![Bukti langkah 3 per folder 8.png](..%2F..%2F..%2FBukti%20langkah%203%20per%20folder%208.png)
+
 - Telah melakukan commit
 # Penjelasan Soal Prioritas 2
