@@ -26,4 +26,4 @@ maka terdapat beberapa hasil positif maupun negatif yang akan kita dapatkan yait
 
 > Test Case 4 : Enter invalid email and invalid password
 
-### Poin ketiga **Kesimpulan : Test Scenario menjawab "apa yang akan diuji ?", sedangkan Test Case menjawab "Bagaimana mengujinya ?"**
+### Poin ketiga : **Kesimpulan : Test Scenario menjawab "apa yang akan diuji ?", sedangkan Test Case menjawab "Bagaimana mengujinya ?"**
