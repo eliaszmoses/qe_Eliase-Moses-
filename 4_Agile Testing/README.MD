@@ -34,3 +34,5 @@ Penjelasan dari gambar Testing pyramid pada slide 30 website alta sebagai beriku
 - UI Test merupakan pengujian yang dilakukan dari ujung ke ujung yang berfokus pada hasil dari setiap interaksi pada fitur aplikasi (tampilan/output) namun dapat dilakukan dengan otomatisasi menggunakan software khusus seperti katalin studio/silenium, dll.
 
 
+
+
