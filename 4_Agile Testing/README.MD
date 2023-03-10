@@ -27,7 +27,7 @@ Terdapat 5 kunci dari tesing manifesto yaitu :
 - Don't try to break the system, instead help build the best possible system
 - The whole team is responsible for quality, not just the tester
 
-### Poin ketiga : Testung Pyramid
+### Poin ketiga : Testing Pyramid
 Penjelasan dari gambar Testing pyramid pada slide 30 website alta sebagai berikut (dari hirarki terendah ke hirarki teratas) :
 - Unit Test merupakan sebuah proses berupa program (code test secara autonomous testing) untuk meverifikasi methode/function, class, atau widget yang berada di dalam aplikasi apakaj sesuai dengan persyaratan atau design yang sudah dirancang sebelumnya.
 - Component/integration test/ component test/ service merupakan tahap dimana programmer memastikan pada sejumlah class yang bekerja sama apakah memiliki _behavior_ yang benar. pada tahap ini bisa dijalankan apabila codingan sudah di merge dari branch ke master.
