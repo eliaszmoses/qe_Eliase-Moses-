@@ -14,6 +14,7 @@ Tools yang bisa digunakan untuk menjalankan java seperti :
 ### Poin 2 : Basic Programming
 Dimulai dari Type data, Operator, Input/Output, Looping dan Branching
 1. Type data & Array
+
    merupakan klasifikasi data yang mengenalkan kompilator atau penerjemah bagaimana programmer bermaksud untuk menggunakan data
    - Integer adalah tipe data 32 bit yang digunakan untuk menyimpan angka dalam range cukup besar
    - String adalah kumpulan beberapa karakter (char)
@@ -23,6 +24,7 @@ Dimulai dari Type data, Operator, Input/Output, Looping dan Branching
    - Char merupakan sebuah tipe data yang bisa digunakan untuk menampung karakter.
    
 contoh : 
+         
          String nohp = "081111000";
 
          int additionalNum;
@@ -45,5 +47,35 @@ Array merupakan teknologi yang digunakan untuk menyimpan data bertipe serupa dal
     alterra[5] = 'r';
     alterra[6] = 'a';
 
-2. Operator 
-   merupakan 
+2. Operator
+
+   merupakan instruksi yang diberikan untuk mendapatkan hasil dari proses tersebut.
+   Operator dapat berupa :
+
+   `Assignment                (=)
+    Aritmetika                (+,-,*,/,%)
+    Uner                      (+,-,++,--,!)
+    Ekualitas dan Relational  (==,!=,>,>=,<,<=)
+    Conditional               (&&,||)`
+
+
+3. Input-Output
+
+   Input merupakan instruksi untuk Nilai yang dimasukkan
+   kemudian di proses serangkaian langkah yang dilakukan untuk mengelola input yang diberikan
+   Output menampilkan hasil olah data 
+
+4. Looping
+   
+   merupakan pernyataan atau instruksi yang diberikan kepada komputer agar mau melakukan sesuatu baik itu memproses data, menampilkan data, atau yang lainnya secara berulang.
+   Pada bagian ini terdapat 3 perintah yang dapat kita lakukan yakni :
+   - For (initialization; termination; increment) {statement(s)} )
+   - While (Perulangan dengan menggunakan while digunakan jika proses saat kondisi terpenuhi)
+   - Do while (Perulangan yang mempunyai fungsi yang sama dengan while, tetapi pengecekan kondisinya dilakukan di akhir)
+
+5. Branching
+   
+   merupakan perintah untuk memanipulasi flow atau alur di dalam suatu perulangan.
+   if-then adalah control flow statement yang paling dasar di dalam pemrograman java
+   Else berarti ketika semua kondisi di dalam if bernilai false maka kode di dalam else akan dijalankan
+   
