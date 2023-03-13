@@ -21,14 +21,21 @@ Dimulai dari Type data, Operator, Input/Output, Looping dan Branching
    - Double merupakan sebuah tipe data yang mirip seperti tipe data float, namun memiliki kapasitas yang lebih besar 15 digit
    - Boolean merupakan sebuah tipe data yang memiliki 2 macam nilai, yaitu true dan false
    - Char merupakan sebuah tipe data yang bisa digunakan untuk menampung karakter.
-contoh : String nohp = "081111000"
+   
+contoh : 
+         String nohp = "081111000";
+
          int additionalNum;
+
          char A = 'a';
+
          float creditBalance;
+
          double totalBalance;
     
-    Array merupakan teknologi yang digunakan untuk menyimpan data bertipe serupa dalam sebuah larik. Contoh sebagaimana berikut ini :
-    char [] alterra = new char [] ('a', 'l', 'e', 'r', 'r', 'a');serta penjelasannya adalah sebagai berikut :
+Array merupakan teknologi yang digunakan untuk menyimpan data bertipe serupa dalam sebuah larik. Contoh sebagaimana berikut ini :
+
+    char [] alterra = new char [] ('a', 'l', 'e', 'r', 'r', 'a');serta penjelasannya adalah sebagai berikut :\
     char [] alterra = new char [7] ;
     alterra[0] = 'a';
     alterra[1] = 'l';
