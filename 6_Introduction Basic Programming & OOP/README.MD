@@ -44,3 +44,5 @@ Array merupakan teknologi yang digunakan untuk menyimpan data bertipe serupa dal
     alterra[4] = 'r';
     alterra[5] = 'r';
     alterra[6] = 'a';
+
+2. Operator 
