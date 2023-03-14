@@ -1,4 +1,4 @@
-package lanjutan;
+package SoalPrioritas1;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,7 +8,6 @@ public class Main {
 
         // TODO: hitung luas segitiga
         System.out.println("Luas Segitiga: " + 0.5 * (alas * tinggi));
-        ;
 
         // persegi panjang
         float panjang = 40;
@@ -35,3 +34,4 @@ public class Main {
         }
     }
 }
+
