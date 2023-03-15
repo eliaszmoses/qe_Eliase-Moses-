@@ -51,7 +51,6 @@ public class Soal_Prioritas_1_dan_Soal_Prioritas_2 {
         }
     }
 
-
     public static void drawXYZ(int n) {
         //TODO: complete this code
         for (int i = 1; i < n * n; i++) {
