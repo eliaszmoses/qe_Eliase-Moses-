@@ -1,6 +1,4 @@
-package Introduction_Basic_Programming;
-
-public class Soal_Prioritas_1_dan_Soal_Prioritas_2 {
+public class soalPrioritas1DanSoalPrioritas2 {
     public static void main(String[] args) {
         drawXYZ(5);
         printAsterisk(5);
