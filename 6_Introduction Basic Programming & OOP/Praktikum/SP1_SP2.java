@@ -1,6 +1,8 @@
-public class soalPrioritas1DanSoalPrioritas2 {
+public class SP1_SP2 {
     public static void main(String[] args) {
+        System.out.println("SP 2 : No.1 (a)");
         drawXYZ(5);
+        System.out.println("SP 2 : No.2 (a)");
         printAsterisk(5);
 
         // segitiga
@@ -8,6 +10,7 @@ public class soalPrioritas1DanSoalPrioritas2 {
         float tinggi = 25;
 
         // TODO: hitung luas segitiga
+        System.out.println("SP 1 : No.1 : a,b dan c");
         System.out.println("Luas Segitiga: " + 0.5 * (alas * tinggi));
 
         // persegi panjang
@@ -27,6 +30,7 @@ public class soalPrioritas1DanSoalPrioritas2 {
         int hargaJual = 30000;
 
         if (hargaBeli < hargaJual) {
+            System.out.println("SP 1 No. 2 : a,b dan c");
             System.out.println("Untung: Dengan Keuntungan " + (hargaJual - hargaBeli));
         } else if (hargaBeli > hargaJual) {
             System.out.println("Rugi: Dengan Kerugian " + (hargaJual - hargaBeli));
@@ -51,7 +55,7 @@ public class soalPrioritas1DanSoalPrioritas2 {
 
     public static void drawXYZ(int n) {
         //TODO: complete this code
-        for (int i = 1; i < n * n; i++) {
+        for (int i = 1; i <= n*n; i++) {
             if (i % 3 == 0) {
                 System.out.print("X");
             } else if (i % 2 == 1) {
@@ -59,7 +63,7 @@ public class soalPrioritas1DanSoalPrioritas2 {
             } else {
                 System.out.print("Z");
             }
-            if (i % n == 0) {
+            if (i % 5 == 0) {
                 System.out.println();
             }
         }
