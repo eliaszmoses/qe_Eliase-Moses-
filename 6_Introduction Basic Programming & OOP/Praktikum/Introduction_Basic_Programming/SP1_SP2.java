@@ -1,3 +1,5 @@
+package Introduction_Basic_Programming;
+
 public class SP1_SP2 {
     public static void main(String[] args) {
         System.out.println("SP 2 : No.1 (a)");
