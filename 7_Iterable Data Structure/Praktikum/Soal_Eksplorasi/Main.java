@@ -186,7 +186,7 @@ public class Main {
         return i + 1;
     }
     public static void findMaxSumSubArray() {
-        System.out.println("Soal 6");
+        System.out.println("\nSoal 6");
         
         int[] arr1 = {2, 1, 5, 1, 3, 2};
         int k1 = 3;
