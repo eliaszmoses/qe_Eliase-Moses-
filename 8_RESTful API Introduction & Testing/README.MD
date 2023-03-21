@@ -23,6 +23,7 @@ Komponen REST API terdiri dari : Method, URL (Base URL + Path), Header dan Body.
 
 JSON (JavaScript Object Notation) adalah format file berbasis teks yang umumnya digunakan dalam proses pertukaran data antara server dan klien. File JSON memiliki ekstensi .json serta menggunakan teks yang sama-sama bisa dibaca oleh manusia dan dipahami oleh komputer.
 
+### Poin 2 : HTTP Response Code
 HTTP (Hypertext Transfer Protocol) Response Code : 
 - code 200 : OK (permintaan sudah diterima dan dipahami kemudian sedang diproses)
 - code 201 : Created (permintaan berhasil dan server membuat sumber/resource baru)
@@ -32,7 +33,8 @@ HTTP (Hypertext Transfer Protocol) Response Code :
 - code 405 : Method Not Allowed (metode yang ditentukan dalam permintaan tidak diperbolehkan)
 - code 500 : Internal Server Error (server mengalami galat/error dan tidak dapat memenuhi permintaan)
 
-### Poin 2 : API Testing
+## Materi 2 : API Testing
+### Poin 1 : API Testing dan penjelasannya
 Beberapa pendakatan dari API Testing seperti :
 - Mengerti fungsi dari API
 - Dapat mengaplikasikan teknik testing
@@ -105,7 +107,7 @@ Beberapa tipe bugs yang dapat dideteksi API testing :
 > - Error atau warning yang tidak tepat
 > - Struktur dari data respon tidak benar (JSON & XML)
 
-### Poin 3 : Kelebihan dan Tantangan dari Testing API
+### Poin 2 : Kelebihan dan Tantangan dari Testing API
 Kelebihan dari Testing API yaitu :
 > = Efisiensi waktu
 > - Bahasa yang independen
