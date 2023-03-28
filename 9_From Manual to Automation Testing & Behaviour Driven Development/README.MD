@@ -54,3 +54,4 @@ Adapun praktik terbaik untuk otomatisasi yakni :
 > Mengukur metric keberhasilan automation tidak bisa ditentukan dari perbandingan usaha pengujian secara manual dengan usaha pengujian secara automation.
 
 
+
