@@ -13,7 +13,7 @@ Tools yang bisa digunakan untuk menjalankan java seperti :
 
 ### Poin 2 : Basic Programming
 Dimulai dari Type data, Operator, Input/Output, Looping dan Branching
-1. Type data & Array.
+1. Type data & Array
 
    merupakan klasifikasi data yang mengenalkan kompilator atau penerjemah bagaimana programmer bermaksud untuk menggunakan data
    - Integer adalah tipe data 32 bit yang digunakan untuk menyimpan angka dalam range cukup besar
