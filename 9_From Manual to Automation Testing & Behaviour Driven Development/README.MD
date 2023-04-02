@@ -53,5 +53,26 @@ Adapun praktik terbaik untuk otomatisasi yakni :
 > Melakukan standar dalam melakukan script hal ini diikuti saay menulis script untuk automation
 > Mengukur metric keberhasilan automation tidak bisa ditentukan dari perbandingan usaha pengujian secara manual dengan usaha pengujian secara automation.
 
+## Materi 2 : Behavior Driven Development
+### Poin 1 : Apa itu BDD ?
+Berdasarkan siklus yang diberikan pada slide ke-12, BDD (Behavior Driven Development) berfungsi untuk mencatat fitur-fitur yang gagal saat melakukan test dalam hal ini test yang difokuskan pada sistem. "Behavior" dalam konteks ini berkaitan dengan _Stakeholder/Customer_ yang mereka harapkan dapat dilakukan oleh sistem. 
+TDD (Test Driven Development) merupakan metodologi pengembangan dimana kita mengutamakan komponen-komponen yang akan di test untuk membuat suatu sistem yang baik untuk _Stakeholder/Customer_.
+
+Bahasa BDD Gherkin adalah bahasa yang dapat dibaca bisnis yang membantu Anda menggambarkan perilaku bisnis tanpa merinci implementasinya. Ini adalah bahasa khusus untuk menentukan tes dalam format Cucumber. Ini menggunakan bahasa sederhana untuk menggambarkan kasus penggunaan dan memungkinkan pengguna untuk menghapus detail logika dari behavior tes.
+
+Format BDD terdiri dari :
+1. User Story : Untuk menjelaskan kebutuhan pengguna dan fungsionalitas sistem yang diharapkan
+2. As a [X], I want [Y], So that [Z] merupakan contoh dari scenario yang dibuat
+3. Scenario
+4. Given (menjelaskan konteks dari scenario), When (menjelaskan tindakan yang dilakukan oleh user) , Then (menjelaskan tindakan outcome yang dilakukan oleh user).
+
+### Poin 2 : Apa itu Cucumber ?
+Sebuah tools yang digunakan untuk melakukan BDD, Cucumber membaca suatu ketentuan yang dapat dieksekusi. ketentuan tersebut terdiri dari beberapa scenario.
+Berikut ini adalah tahapan BDD menggunakan Cucumber :
+1. Membuat Story (Ghekin Syntax) Given, When dan Than
+2. Merangkai langkah-langkah untuk membuat java dengan memastikan langkah-langkah script dan validasinya
+3. Memastikan story (Mengkombinasikan cerita dan langkah-langkahnya)
+4. Menjalan story (Intelij IDEA dan Maven)
+5. Melihat laporannya
 
 
