@@ -28,7 +28,7 @@ Pada contoh di atas, kita membuat sebuah list dengan tipe data String, lalu mena
 Map adalah struktur data yang memetakan kunci (key) ke nilai (value). Dalam bahasa lain, Map digunakan untuk menyimpan pasangan data yang terdiri dari sebuah kunci dan sebuah nilai yang terkait.
 Dalam Java, Map diimplementasikan sebagai antarmuka (interface) dengan beberapa implementasi yang berbeda, seperti HashMap, TreeMap, dan LinkedHashMap. Setiap implementasi memiliki karakteristik dan kegunaan yang berbeda.
 
-Contoh penggunaan Map pada Java:
+Contoh penggunaan Map pada Java :
 
 `Map<String, Integer> myMap = new HashMap<>();
 myMap.put("Satu", 1);
