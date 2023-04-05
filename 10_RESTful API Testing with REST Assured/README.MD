@@ -30,9 +30,9 @@ Piramida tes praktis terdiri dari : UI, Integration, Komponen dan UNIT.
 ### Poin 1 : REST ASSURED and The Features
 Tahap-tahap yang dilakukan yaitu : 
 1. Mendukung for HTTP methods.
-2. Mendukung for BDD/Gherkin (Given, When, Then)
-3. Menggunakan Hamcrest dicocokan untuk checks (equalTo)
-4. Pengguna dari Gpath memilih element dari respon JSPON
+2. Mendukung for BDD/Gherkin (Given, When, Then).
+3. Menggunakan Hamcrest dicocokan untuk checks (equalTo).
+4. Pengguna dari Gpath memilih element dari respon JSPON.
 
 Persiapan yaitu dengan mendownload dan meng-install : JAVA 1.8, Maven 3.5.2 dan Intellij IDEA 2018
 Apa keuntungan dari menggunakan REST Assured yakni :
