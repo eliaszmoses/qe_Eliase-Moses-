@@ -49,6 +49,6 @@ Terdapat 2 skill yang harus dimiliki sebagai seorang Tester
 - System Analyst
 - Scrum Master
 ### 5. Bagaimana menjadi software tester 
-Dengan menguasai Software testing, test case management tools dan automation tools (biasanya untuk pekerja lepas) namun apabila sudah disertifikasi maka dapat menjadi pekerja tetap 
+Dengan menguasai Software testing, test case management tools dan automation tools (biasanya untuk pekerja lepas) namun apabila sudah disertifikasi maka dapat menjadi pekerja tetap.
 
 
