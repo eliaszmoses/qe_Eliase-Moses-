@@ -22,6 +22,7 @@ myList.add("Tiga");
 for (String item : myList) {
 System.out.println(item);
 }`
+
 Pada contoh di atas, kita membuat sebuah list dengan tipe data String, lalu menambahkan beberapa elemen ke dalamnya. Kemudian, kita menggunakan loop for-each untuk mengakses setiap elemen di dalam list tersebut dan mencetak nilainya ke console.
 
 ### Poin 2 : Map
