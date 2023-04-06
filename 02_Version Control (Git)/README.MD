@@ -48,7 +48,7 @@ Terdapat tiga command yang bisa kita gunakan yakni :
 
 ### Poin ketiga : Pencabangan file, cara melakukan pull request dan fungsi workflow collaboration
 Cabang atau pointer yang bergerak ke salah satu commit dengan command nya :
-Git Branching (untuk membuat cabang atau melanjutkan cabang yang sudah ada) dan Git Merge (untuk menggabungkan perubahan yang terdapat dalam dua atau lebih branch)
+Git Branching (untuk membuat cabang atau melanjutkan cabang yang sudah ada) dan Git Merge (untuk menggabungkan perubahan yang terdapat dalam dua atau lebih branch).
 
 Permintaan untuk menggabungkan (merge) kode yang sydah dimofikasi dengan repositori utama atau repositori lain yang dituju.
 
