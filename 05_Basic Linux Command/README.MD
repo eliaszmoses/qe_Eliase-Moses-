@@ -12,7 +12,7 @@ yang didasarkan pada text yang less resources, dengan repetitive task friendly d
 6. File Access Permisions : chmod, chown, etc
 
 ### Poin kedua : Shell Script
-Shell merupakan program yang berfungsi sebagai penghubung antara pengguna dan kernel
-Shell Script, merupakan kompilasi bahasa pemrograman yang didasarkan pada perintah shell
+Shell merupakan program yang berfungsi sebagai penghubung antara pengguna dan kernel.
+Shell Script, merupakan kompilasi bahasa pemrograman yang didasarkan pada perintah shell.
 Atau bisa disimpulkan bahwa Shell Script merupakan teknik merancang dan membuat script menggunakan shell dari sistem operasi, atau editor teks.
 Shell script merupakan jenis bahasa pemrograman yang umumnya ditafsirkan.
