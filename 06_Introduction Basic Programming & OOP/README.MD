@@ -76,8 +76,8 @@ Array merupakan teknologi yang digunakan untuk menyimpan data bertipe serupa dal
 5. Branching
    
    merupakan perintah untuk memanipulasi flow atau alur di dalam suatu perulangan.
-   if-then adalah control flow statement yang paling dasar di dalam pemrograman java
-   Else berarti ketika semua kondisi di dalam if bernilai false maka kode di dalam else akan dijalankan
+   if-then adalah control flow statement yang paling dasar di dalam pemrograman java.
+   Else berarti ketika semua kondisi di dalam if bernilai false maka kode di dalam else akan dijalankan.
 
 ## Materi 2 : Object Oriented Program
 ### Poin 1 : Apa itu OOP (Object Oriented Program) ? 
