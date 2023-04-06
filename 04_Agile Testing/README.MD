@@ -7,17 +7,17 @@ SDLC digunakan oleh industri software untuk mendesain, mengembangkan dan menguji
 
 Fase-fase yang terdapat dalam siklus SDLC : `Requirement Gathering > Design > Development (Code) > Testing > Deployment > Maintenance`
 - Requirement Gathering
-> Untuk menciptakan proses diagram dan menampilkan secara rinci analasis performanya
+> Untuk menciptakan proses diagram dan menampilkan secara rinci analasis performanya.
 - Design
-> Untuk merancang prasarana IT dan untuk  merancang model sistem yang diinginkan
+> Untuk merancang prasarana IT dan untuk  merancang model sistem yang diinginkan.
 - Development
-> Untuk mengembangkan prasarana IT yang sudah dirancang dan untuk mengembangkan database dan code
+> Untuk mengembangkan prasarana IT yang sudah dirancang dan untuk mengembangkan database dan code.
 - Testing
-> Untuk menuliskan step-step test cases dan menjalankan test cases yang sudah ditulis langkah-langkahnya
+> Untuk menuliskan step-step test cases dan menjalankan test cases yang sudah ditulis langkah-langkahnya.
 - Deployment
-> Untuk mengerahkan sistem pada kenyataan (lingkungan klien yang nerupakan pengguna) yang mulai menjalankan sistem
+> Untuk mengerahkan sistem pada kenyataan (lingkungan klien yang nerupakan pengguna) yang mulai menjalankan sistem.
 - Maintenance
-> Untuk mendukung pengguna yang menggunakan sistem, perbaikan sistem, perubahan sistem dan penyesuaian terhadap perubahan yang sudah dilakukan
+> Untuk mendukung pengguna yang menggunakan sistem, perbaikan sistem, perubahan sistem dan penyesuaian terhadap perubahan yang sudah dilakukan.
 
 ### Poin kedua : Agile Testing Manifesto
 Terdapat 5 kunci dari tesing manifesto yaitu :
