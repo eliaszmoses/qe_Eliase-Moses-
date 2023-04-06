@@ -25,13 +25,13 @@ JSON (JavaScript Object Notation) adalah format file berbasis teks yang umumnya 
 
 ### Poin 2 : HTTP Response Code
 HTTP (Hypertext Transfer Protocol) Response Code : 
-- code 200 : OK (permintaan sudah diterima dan dipahami kemudian sedang diproses)
-- code 201 : Created (permintaan berhasil dan server membuat sumber/resource baru)
-- code 400 : Bad Request (server tidak memahami sintaks/syntax permintaan dari klien)
-- code 401 : Unauthorized (permintaan membutuhkan otentikasi. server biasanya menampilkan respon ini untuk halaman setelah login (page behind a login))
-- code 404 : Not Found (server tidak dapat menemukan halam yang diminta)
-- code 405 : Method Not Allowed (metode yang ditentukan dalam permintaan tidak diperbolehkan)
-- code 500 : Internal Server Error (server mengalami galat/error dan tidak dapat memenuhi permintaan)
+- code 200 : OK (permintaan sudah diterima dan dipahami kemudian sedang diproses).
+- code 201 : Created (permintaan berhasil dan server membuat sumber/resource baru).
+- code 400 : Bad Request (server tidak memahami sintaks/syntax permintaan dari klien).
+- code 401 : Unauthorized (permintaan membutuhkan otentikasi. server biasanya menampilkan respon ini untuk halaman setelah login (page behind a login)).
+- code 404 : Not Found (server tidak dapat menemukan halam yang diminta).
+- code 405 : Method Not Allowed (metode yang ditentukan dalam permintaan tidak diperbolehkan).
+- code 500 : Internal Server Error (server mengalami galat/error dan tidak dapat memenuhi permintaan).
 
 ## Materi 2 : API Testing
 ### Poin 1 : API Testing dan penjelasannya
