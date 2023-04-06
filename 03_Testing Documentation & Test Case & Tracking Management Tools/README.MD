@@ -65,7 +65,7 @@ Terdapat beberapa langkah yang dapat diikuti agar dapat menggunakan TestRail :
 
 ## Materi 3 : Tracking Management Tools
 ### Poin Pertama : Apa itu Jira ?
-Jira adalah alat bantu yang bertujuan untuk pelacakan bugs, pelacak issue, dan manajemen proyek
+Jira adalah alat bantu yang bertujuan untuk pelacakan bugs, pelacak issue, dan manajemen proyek.
 
 ### Poin Kedua : Langkah-langkah dalam menggunakan Jira
 > Pembuatan Projek baru di Jira
