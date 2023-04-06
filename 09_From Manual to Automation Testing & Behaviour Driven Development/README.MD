@@ -69,10 +69,10 @@ Format BDD terdiri dari :
 ### Poin 2 : Apa itu Cucumber ?
 Sebuah tools yang digunakan untuk melakukan BDD, Cucumber membaca suatu ketentuan yang dapat dieksekusi. ketentuan tersebut terdiri dari beberapa scenario.
 Berikut ini adalah tahapan BDD menggunakan Cucumber :
-1. Membuat Story (Ghekin Syntax) Given, When dan Than
-2. Merangkai langkah-langkah untuk membuat java dengan memastikan langkah-langkah script dan validasinya
-3. Memastikan story (Mengkombinasikan cerita dan langkah-langkahnya)
-4. Menjalan story (Intelij IDEA dan Maven)
-5. Melihat laporannya
+1. Membuat Story (Ghekin Syntax) Given, When dan Than.
+2. Merangkai langkah-langkah untuk membuat java dengan memastikan langkah-langkah script dan validasinya.
+3. Memastikan story (Mengkombinasikan cerita dan langkah-langkahnya).
+4. Menjalan story (Intelij IDEA dan Maven).
+5. Melihat laporannya.
 
 
