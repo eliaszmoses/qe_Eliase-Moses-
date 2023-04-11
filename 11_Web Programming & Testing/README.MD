@@ -2,7 +2,8 @@
 ## Materi 1 : Web Programming
 ### Poin 1 : Front-end
 > Terdiri dari Frontend & Backend, Frontend adalah sebuah bagian dari website yang membuat tampilan yang menarik kepada user dengan menggunakan HTML, JS dan CSS.
-1. HTML (Hypertext Markup Language) adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web.
+
+HTML (Hypertext Markup Language) adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web.
 Adapun kegunaan dari HTML yaitu :
 - Membuat struktur dari halaman website.
 - Mengatur tampilan dan isi dari halaman web.
@@ -50,7 +51,7 @@ Tag Table HTML terdiri dari :
 
 `Untuk kolom pada tabel header menggunakan <th></th>`
 
-2. CSS (Cascading Style Sheets)
+### Poin 2. CSS (Cascading Style Sheets)
 
 Adapun kegunaan dari CSS dapat menghias halaman web. (color, size, font, background, width, height, dll), Dapat mengatur posisi pada halaman web. (float, align, display, position,dll)
 Terdapat 3 cara menambahkan file CSS ke dalam HTML :
@@ -104,3 +105,44 @@ CSS Background Beberapa style background di css.
 `Background-position  : Mengatur posisi awal gambar background`
 
 CSS Link event beberapa link event pada CSS
+
+`: hover : Kondisi style ketika mouse berada diatas elemen.`
+
+`: active : Style ketika link "a" ditekan.`
+
+`: visited : Style dimana elemen link "a" telah di kunjungi / di klik.`
+
+CSS Transisi Transisi CSS dapat mengubah value properti menjadi lebih halus dalam durasi yang ditentukan.
+
+CSS Display untuk menentukan tampilan pada elemen.
+
+`Block : Elemen block selalu dimulai pada baris baru. (dimulai dari kiri ke kanan)`
+
+`Inline-block : Elemen inline-block membutuhkan lebar sesuai yang diperlukan.`
+
+`None : Menyembunyikan elemen untuk tidak ditampilkan.`
+
+CSS Table untuk membuat style pada elemen table HTML
+
+`Border : Menambahkan border pada table, th dan td`
+
+`Border-collapse : Membuat border menjadi single border`
+
+`: nth-child (even) : Membuat background stripe`
+
+### Poin 3 : Front End Framework
+Front End Framework adalah sekumpulan aturan kode yang bisa kita gunakan untuk mempermudah dalam suatu tampilan website.
+Kenapa dalam membuat Front End kita membutuhkan bootstrap karena gratis, mudah dipelajari, cepat dan mendukung responsif.
+
+Class pada Bootstrap :
+
+`Container   : container, container-fluid`
+
+`Row         : row`
+
+`Column      : col-md-12, col-lg-12,col-sm-6`
+
+`Button      :btn-primary, btn-success, btn-danger`
+
+
+
