@@ -144,5 +144,56 @@ Class pada Bootstrap :
 
 `Button      :btn-primary, btn-success, btn-danger`
 
+## Materi 2 : Web Testing using Serenity BDD With Cucumber
+### Poin 1 : Pengenalan Serenity BDD
+
+> Serenity adalah kerangka kerja BDD sumber terbuka yang membantu membuat tes penerimaan otomatis yang terstruktur dengan baik dan dapat dipelihara.
+
+Arsitektur Serenity terdiri dari Requirements, Tests, Steps, Pages, and Reports.
+
+1. Define Requirements
+- Ketika menggunakan serenity, kita memulainya dengan memenuhi kebutuhan yang dibutuhkan agar bisa dijalankan.
+- Hal ini sering digunakan oleh "Stories" pengguna dengan kriteria penerimaan yang membantu meluruskan kebutuhan yang dibutuhkan.
+- Bahwa "Stories" yang diotomatisasi oleh Serenity
+
+Adapun kriteria yang diautomtisasi yakni :
+- Menjelaskan kriteria yang diterima pada syarat bisnis tingkat tinggi.
+- Merekam kriteria yang diterima dengan menggunakan BDD tool seperti cucumber dengan bentuk "feature" sehingga Serenity dapat menjalankannya.
+
+Jalankan tesnya :
+- Dalam mengimplementasikan kriteria yang diterima dalam kode, sehingga kode-kode tersebut dapat berjalan berlawanan dengan yang sebenarnya.
+- Dibawah lapisan kode yang ada, pengujian diuraikan menjadi langkah-langkah bertingkat untuk membaca dengan lebih baik dan mempermudah pemeliharaan.
+
+Melaporkan hasil pengujian :
+Serenity memberikan laporan rinci dari hasil pengujian dan eksekusi nya mencakup :
+- Sebuah teks berbentuk narasi untuk setiap testnya
+- Sebuah teks berbentuk deskriptif untuk menjelaskan hasil testnya
+- Tangkapan layar untuk setiap langkah pengujian
+- Hasil pengujian mencakup waktu dilaksanakannua dan pesan error jika pengujian dilakukan gagal.
+
+### Poin 2 : BDD Framework with Cucumber
+Terdapat beberapa tahap dalam BDD menggunakan cucumber yakni :
+1. Write story --> Gherkin Syntax (Given, When, Then)
+2. Configure Stories --> Menyiapkan stories dan langkah-langkahnya
+3. Browser Interaction --> Peta langkah-langkah untuk melakukan manipulasi web
+4. Run Stories --> Menggunakan intelij IDEA yakni maven (pom.xml)
+5. View Reports --> Membuat laporan menggunakan serenity
+
+Penulisan untuk test :
+1. Serenity cucumber
+2. Membuat file untuk Stories
+3. Membuat file untuk Test Class
+4. Membuat file untuk Test Steps
+5. Membuat file untuk Page Objects
+
+### Poin 3 : Digging Deeper (Serenity with Cucumber)
+Serenity Properties :
+- Serenity mendukung berbagai properties untuk menjalankan pengujian 
+- Webdriver.driver mengartikan browser mana yang akan digunakan untuk pengujian
+- Ignore.failures.in.stories menetapkan nilai variabel serenity nya untuk melanjutkan pengujian skenario berikutnya walaupun scenario yang ada gagal.
+
+
+
+
 
 
