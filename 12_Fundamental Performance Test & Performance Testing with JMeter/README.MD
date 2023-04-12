@@ -20,14 +20,17 @@ Environment ini ada yang membuatnya di server cloud yang biayanya bisa lebih bes
 Dengan mengenali apa yang dibutuhkan seperti :
 - Endpoint yang akan ditest
 - Kebutuhan masing-masing endpoint
+- 
 2. Menentukan Metode Test
 - Pilih berdasarkan kondisi sistem, apakah belum pernah dites atau sudah.
 - Pilih berdasarkan situasi yang akan dihadapi
+
 3. Beberapa tipe Metode Test
 - Load test
 - Endurance test
 - Stress test
 - Peak test
+
 4. Smoke Testing
 Dilakukan untuk memverifikasi script yang sudah dibuat, seperti apakah sistem dapat handle minimal load, tanpa masalah sama sekali. Biasanya 1-2 VUs.
 
@@ -36,7 +39,7 @@ Merupakan pengujian yang paling sederhana yang dilakukan untuk memahami perilaku
 
 6. Tabel Tier
 Dapat dijadikan patokan ideal suatu sistem baru yang belum pernah masuk ke production.
-![Screenshot (401).png](..%2F..%2FScreenshot%20%28401%29.png)
+![Screenshot (401).png](Screenshot%2FScreenshot%20%28401%29.png)
 
 7. Stress Testing
 Metode ini dilakukan untuk mengamati kemampuan dan kestabilan sistem pada saat kondisi ekstrem.
@@ -51,10 +54,16 @@ Untuk mengetahui reliability ketika dalam tekanan di bawah puncak dalam jangka p
 
 Beberapa istilah penting dalam performance test :
 > System Under Test (SUT) --> Sebutan untuk sistem yang sedang dilakukan test.
+
 > Load Generator --> Sebutan untuk server yang digunakan untuk membuat request.
+
 > Throughput --> Satuan kerja dalam satuan waktu. Misalnya Request per second (RPS) dan Request per minute (RPM).
+
 > Performance Threshold --> Target maksimal nilai yang diperbolehkan, misalnya response time 2 detik, Max CPU usage 70% dsb.
+
 > Saturation --> Kondisi dimana SUT atau Load Generator sudah dalam kondisi maksimum dalam merespon atau mengenerate.
+
 > Virtual Users --> Simulasi dari users yang melakukan pengujian, dapat melakukan satu atau lebih requests dalam satu iterasi.
+
 > Response Time --> Lama waktu pengiriman request hingga menerima response.
 
