@@ -67,3 +67,21 @@ Beberapa istilah penting dalam performance test :
 
 > Response Time --> Lama waktu pengiriman request hingga menerima response.
 
+### Poin 3 : Introduction to JMeter
+> Alat yang digunakan seperti Apache JMeter, k6, Locust, BlazeMeter, Smartbear LoadNinja, dll.
+
+> Pengenalan JMeter :`Apache JMeter adalah perangkat lunak sumber terbuka, aplikasi desktop java 100% murni, yang dirancang untuk memuat uji perilaku fungsional dan mengukur kinerja situs web. Awalnya dirancang untuk aplikasi web pengujian beban tetapi sejak itu diperluas ke fungsi pengujian lainnya.`
+
+> Kelebihan JMeter :`Merupakan Open source dan mudah untuk digunakan dengan GUI / Non GUI`
+
+> Beberapa komponen script JMeter : 
+- Test Plan : Rencana besar tes yang akan dilakukan (parent)
+- Thread Groups : Kumpulan thread yang menjalankan skenario yang sama
+- Samplers : Sebutan untuk request yang dikirim ke server
+- Config elements : Elemen yang digunakan untuk konfigurasi atau modifikasi sampler request yang dikirim ke server.
+- Listeners : Perekam data yang dihasilkan dari tes
+- Timers : Fitur ini akan jalan duluan sebelum fitur yang lain berjalan
+- Assertions : Seperti assert pada API/Web/Testing, merupakan kriteria tambahan apakah pass/tidak
+- Pre-post processors : Fitur yang memproses response data sebelum/sesudah tes
+
+
