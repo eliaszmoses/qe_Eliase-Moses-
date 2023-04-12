@@ -20,7 +20,7 @@ Environment ini ada yang membuatnya di server cloud yang biayanya bisa lebih bes
 Dengan mengenali apa yang dibutuhkan seperti :
 - Endpoint yang akan ditest
 - Kebutuhan masing-masing endpoint
-- 
+
 2. Menentukan Metode Test
 - Pilih berdasarkan kondisi sistem, apakah belum pernah dites atau sudah.
 - Pilih berdasarkan situasi yang akan dihadapi
