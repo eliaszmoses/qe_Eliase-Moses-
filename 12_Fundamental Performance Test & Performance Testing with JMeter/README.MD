@@ -67,7 +67,8 @@ Beberapa istilah penting dalam performance test :
 
 > Response Time --> Lama waktu pengiriman request hingga menerima response.
 
-### Poin 3 : Introduction to JMeter
+## Materi 2 : Performance Testing with JMeter
+### Poin 1 : Introduction to JMeter
 > Alat yang digunakan seperti Apache JMeter, k6, Locust, BlazeMeter, Smartbear LoadNinja, dll.
 
 > Pengenalan JMeter :`Apache JMeter adalah perangkat lunak sumber terbuka, aplikasi desktop java 100% murni, yang dirancang untuk memuat uji perilaku fungsional dan mengukur kinerja situs web. Awalnya dirancang untuk aplikasi web pengujian beban tetapi sejak itu diperluas ke fungsi pengujian lainnya.`
@@ -84,4 +85,21 @@ Beberapa istilah penting dalam performance test :
 - Assertions : Seperti assert pada API/Web/Testing, merupakan kriteria tambahan apakah pass/tidak
 - Pre-post processors : Fitur yang memproses response data sebelum/sesudah tes
 
+### Poin 2 : Post Processor
+Post processor adalah salah satu elemen dari test plan yang digunakan untuk melakukan pemrosesan terhadap respons yang diterima dari server setelah melakukan request.
+
+Post processor ini biasanya digunakan untuk mengekstrak nilai yang ada dari respon permintaan sampler. 
+
+JSON Path digunakan untuk ekstrak isi dari json response
+
+Beberapa ekspresi yang umum digunakan :
+
+- $ = root element
+- . = child operator (object)
+- [] = child operator (array)
+- .. = recursive descent (langsung ke objek)
+- * = wildcard (all things)
+- [start:end] = array slice operator borrowed.
+
+JMeter Post-Processors merupakan jantung utama dari pengujian performa.
 
